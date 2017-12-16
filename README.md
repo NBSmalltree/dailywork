@@ -338,3 +338,9 @@ for i in names
 
 ## 2017.12.15（周五）上午
 继续昨日任务，push forward!
+
+## 2017.12.15（周五）中午
+任务1 **check** 可利用*HHI*的*Alt moabit*
+
+## 2017.12.16（周六）下午
+打算仍然用*Bookarrive*序列
