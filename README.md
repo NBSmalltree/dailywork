@@ -352,29 +352,29 @@ for i in names
 
 1. 标题
 
-1-6个`#`表示1-6级标题，最后一个`#`后加空格。
+  1-6个`#`表示1-6级标题，最后一个`#`后加空格。
 
-# 标题1
-## 标题2
-### 标题3
-#### 标题4
-##### 标题5
-###### 标题6
+  # 标题1
+  ## 标题2
+  ### 标题3
+  #### 标题4
+  ##### 标题5
+  ###### 标题6
 
 2. 文本样式
 
-|样式|关键字|样例|
-|----|------|----|
-|加粗|`** abc **`|** abc **|
-|斜体|`_ abc _`|_ abc _|
-|删除线|`~~ abc ~~`|~~ abc ~~|
-|加粗&斜体|`** _ abc _ **`|** _ abc _ **|
+  |样式|关键字|样例|
+  |----|------|----|
+  |加粗|`** abc **`|** abc **|
+  |斜体|`_ abc _`|_ abc _|
+  |删除线|`~~ abc ~~`|~~ abc ~~|
+  |加粗&斜体|`** _ abc _ **`|** _ abc _ **|
 
 3. 引用
 
   - 文本：`> abc` 
   
-  > abc
+    > abc
   
   - 代码：
   
@@ -383,17 +383,18 @@ for i in names
 	- 显示： 
 	``` c++
 	int a = 1;
+	cout << a << endl;
 	```
 	
 4. 链接
 
   - 行内链接
   
-  [链接到百度](https://www.baidu.com "百度")
+    [链接到百度](https://www.baidu.com "百度")
   
   - 参考链接
   
-  [链接到百度][1]
+    [链接到百度][1]
   
   [1]: https://www.baidu.com
   
@@ -444,4 +445,4 @@ for i in names
 
 8. 图像
 
-![GitHub Logo](http://octodex.github.com/images/yahtocat.png)
+![GitHub Logo](https://octodex.github.com/images/yaktocat.png)
