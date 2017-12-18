@@ -447,3 +447,10 @@ for i in names
 
 ![GitHub Logo](https://octodex.github.com/images/yaktocat.png)
 
+## 2017.12.18（周一）下午
+
+`红色`种草
+
+> 用代码和脚步去到更远的地方
+
+近几天主要任务，问题描述，今日任务，完成总体框架即可，统计现有的文献，有条件看一下英文关键字和施引文献
