@@ -445,4 +445,8 @@ for i in names
 
 8. 图像
 
+<<<<<<< HEAD
 ![GitHub Logo](https://octodex.github.com/images/yaktocat.png)
+=======
+![GitHub Logo](https://octodex.github.com/images/yahtocat.png)
+>>>>>>> fbb87071401fe5a035489657a16e1f620fafad36
