@@ -591,3 +591,16 @@ for i in names
 今天主要在*Ubuntu*上完成*TensorFlow*安装，基于*Virtualenv*和*pip*的方式，但是都没有找到具体安装的位置，考虑明天在*Windows*平台上实现。
 
 主要在*Ubuntu*上代码调试非常纠结，不会断点调试，短期实现在*Windows*+*VS*上实现。
+
+## 2017.12.27（周三）上午
+
+今日任务：
+  - [ ] 定位*pip*安装*TensorFlow*的位置
+  - [ ] 深入*Mnist*算法，继续学习*TensorFlow*教程
+  - [ ] 中午学习*Deutsch*
+  
+附加任务：
+  - [ ] 中大*OpenCV*博客实现
+  - [ ] 在*Windows*端搭建*TensorFlow*框架
+  
+  
