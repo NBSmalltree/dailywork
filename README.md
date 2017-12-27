@@ -603,4 +603,17 @@ for i in names
   - [ ] 中大*OpenCV*博客实现
   - [ ] 在*Windows*端搭建*TensorFlow*框架
   
+## 2017.12.27（周三）晚上
+
+任务完成：
+  - [x] 定位*pip*安装*TensorFlow*的位置
+  - [x] 深入*Mnist*算法，继续学习*TensorFlow*教程
+  - [ ] 中午学习*Deutsch*
   
+今日感悟：
+
+总结了*TensorFlow*在三种情况下的运行情况，*VS*+*Python*插件最差，*Windows*平台*Python*终端其次，*Ubuntu*最佳
+
+确定了今后必须在**Ubuntu**下完成的基本方针
+
+今天后期因为*Terminal*不能单步调试，所以很头痛，安装了*Anaconer*，用它的*spyder*IDE来开发*Python*，无奈配置出现了点问题，看一个神坑的教程，明日重新安装。
