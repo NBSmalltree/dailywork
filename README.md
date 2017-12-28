@@ -617,3 +617,10 @@ for i in names
 确定了今后必须在**Ubuntu**下完成的基本方针
 
 今天后期因为*Terminal*不能单步调试，所以很头痛，安装了*Anaconer*，用它的*spyder*IDE来开发*Python*，无奈配置出现了点问题，看一个神坑的教程，明日重新安装。
+
+## 2017.12.28（周四）中午
+
+今日任务：
+  - [x] *Anaconda*下安装*TensorFlow*
+  - [ ] 找老彭汇报近期工作
+  - [ ] 继续*TensorFlow*学习
